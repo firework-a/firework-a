@@ -2,72 +2,66 @@
 
 I am interested in finding the helpful tool in github,and do something for the public repository.I really learn a lot here.
 
-<!--
-**firework-a/firework-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 59.80 %
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⏰ Updated on Thu, 07 Aug 2025 06:19:33 GMT
+
+---
 
 - The code language I interested
-  <p algin="center">
-    <a href="https://www.python.org/">
-  	  <img alt="Python" height="20" src="https://cdn.simpleicons.org/python" />
-    </a>
-    <a href="https://web.developers.google.cn/javascript?hl=zh-cn">
-  	  <img alt="Javascript" height="20" src="https://cdn.simpleicons.org/javascript" />
-    </a>
-    <a href="https://golang.google.cn/">
-  	  <img alt="Golang" height="20" src="https://cdn.simpleicons.org/go" />
-    </a>
-  </p>
+<p algin="center">
+<a href="https://www.python.org/">
+    <img alt="Python" height="20" src="https://cdn.simpleicons.org/python" />
+</a>
+<a href="https://web.developers.google.cn/javascript?hl=zh-cn">
+    <img alt="Javascript" height="20" src="https://cdn.simpleicons.org/javascript" />
+</a>
+<a href="https://golang.google.cn/">
+    <img alt="Golang" height="20" src="https://cdn.simpleicons.org/go" />
+</a>
+</p>
 
 - The framework I use
-  <p algin="center">
-    <a href="https://cn.vuejs.org/">
-  	  <img alt="Vuejs" height="20" src="https://cdn.simpleicons.org/vue.js" />
-    </a>
-    <a href="https://gin-gonic.com/">
-  	  <img alt="Nextjs" height="20" src="https://cdn.simpleicons.org/next.js" />
-    </a>
-    <a href="https://gin-gonic.com/">
-  	  <img alt="Gin" height="20" src="https://cdn.simpleicons.org/gin" />
-    </a>
-    <a href="https://fastapi.tiangolo.com/zh/">
-  	  <img alt="Fastapi" height="20" src="https://cdn.simpleicons.org/fastapi" />
-    </a>
-  </p>
+<p algin="center">
+<a href="https://cn.vuejs.org/">
+    <img alt="Vuejs" height="20" src="https://cdn.simpleicons.org/vue.js" />
+</a>
+<a href="https://gin-gonic.com/">
+    <img alt="Nextjs" height="20" src="https://cdn.simpleicons.org/next.js" />
+</a>
+<a href="https://gin-gonic.com/">
+    <img alt="Gin" height="20" src="https://cdn.simpleicons.org/gin" />
+</a>
+<a href="https://fastapi.tiangolo.com/zh/">
+    <img alt="Fastapi" height="20" src="https://cdn.simpleicons.org/fastapi" />
+</a>
+</p>
 
 - Also I'm interested in
-   <p algin="center">
+<p algin="center">
+<a href="#">
+    <img alt="Wegame" height="20" src="https://cdn.simpleicons.org/wegame" />
+</a>
+<a href="#">
+    <img alt="Gameloft" height="20" src="https://cdn.simpleicons.org/gameloft" />
+</a>
+<a href="#">
+    <img alt="Epic Games" height="20" src="https://cdn.simpleicons.org/epicgames" />
+</a>
+<a href="#">
+    <img alt="Steam" height="20" src="https://cdn.simpleicons.org/steam" />
+</a>
+<a href="#">
+    <img alt="Riot Games" height="20" src="https://cdn.simpleicons.org/riotgames" />
+</a>
     <a href="#">
-  	  <img alt="Wegame" height="20" src="https://cdn.simpleicons.org/wegame" />
-    </a>
-    <a href="#">
-  	  <img alt="Gameloft" height="20" src="https://cdn.simpleicons.org/gameloft" />
-    </a>
-    <a href="#">
-  	  <img alt="Epic Games" height="20" src="https://cdn.simpleicons.org/epicgames" />
-    </a>
-    <a href="#">
-  	  <img alt="Steam" height="20" src="https://cdn.simpleicons.org/steam" />
-    </a>
-    <a href="#">
-  	  <img alt="Riot Games" height="20" src="https://cdn.simpleicons.org/riotgames" />
-    </a>
-     <a href="#">
-  	  <img alt="Rockstar Games" height="20" src="https://cdn.simpleicons.org/rockstargames" />
-    </a>
-  </p>
+    <img alt="Rockstar Games" height="20" src="https://cdn.simpleicons.org/rockstargames" />
+</a>
+</p>
 
 ### My Github Contributions
 
 ![](https://fastly.jsdelivr.net/gh/firework-a/firework-a/assets/github-contribution-grid-snake.svg)
+
