@@ -70,4 +70,4 @@ Here are some ideas to get you started:
 
 ### My Github Contributions
 
-![](https://raw.githubusercontent.com/firework-a/firework-a/main/assets/github-contribution-grid-snake.svg)
+![](https://fastly.jsdelivr.net/gh/firework-a/firework-a/main/assets/github-contribution-grid-snake.svg)
