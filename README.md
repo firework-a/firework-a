@@ -19,7 +19,7 @@ I am interested in finding the helpful tool in github,and do something for the p
     <img alt="Javascript" height="20" src="https://cdn.simpleicons.org/javascript" />
 </a>
 <a href="https://golang.google.cn/">
-    <img alt="Golang" height="20" src="https://cdn.simpleicons.org/go" />
+    <img alt="Golang" height="20" src="https://cdn.simpleicons.org/go?viewbox=auto" />
 </a>
 </p>
 
