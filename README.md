@@ -2,11 +2,11 @@
 
 I am interested in finding the helpful tool in github,and do something for the public repository.I really learn a lot here.
 
-⏳ Year progress { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 60.41 %
+⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 66.03 %
 
 ---
 
-⏰ Updated on Sat, 09 Aug 2025 12:16:08 GMT
+⏰ Updated on Sat, 30 Aug 2025 00:39:46 GMT
 
 ---
 
@@ -19,7 +19,7 @@ I am interested in finding the helpful tool in github,and do something for the p
     <img alt="Javascript" height="20" src="https://cdn.simpleicons.org/javascript" />
 </a>
 <a href="https://golang.google.cn/">
-    <img alt="Golang" height="20" src="https://cdn.simpleicons.org/go?viewbox=auto" />
+    <img alt="Golang" height="20" src="https://cdn.simpleicons.org/go" />
 </a>
 </p>
 
