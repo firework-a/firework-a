@@ -1,15 +1,23 @@
 const thisYear = new Date().getFullYear();
-const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00+00:00`).getTime();
-const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime();
-const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYear - startTimeOfThisYear);
+const startTimeOfThisYear = new Date(
+    `${thisYear}-01-01T00:00:00+00:00`
+).getTime();
+const endTimeOfThisYear = new Date(
+    `${thisYear}-12-31T23:59:59+00:00`
+).getTime();
+const progressOfThisYear =
+    (Date.now() - startTimeOfThisYear) /
+    (endTimeOfThisYear - startTimeOfThisYear);
 const progressBarOfThisYear = generateProgressBar();
 
 function generateProgressBar() {
     const progressBarCapacity = 30;
-    const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity);
+    const passedProgressBarIndex = parseInt(
+        progressOfThisYear * progressBarCapacity
+    );
     const progressBar =
-        '█'.repeat(passedProgressBarIndex) +
-        '▁'.repeat(progressBarCapacity - passedProgressBarIndex);
+        "█".repeat(passedProgressBarIndex) +
+        "▁".repeat(progressBarCapacity - passedProgressBarIndex);
     return `{ ${progressBar} }`;
 }
 
@@ -18,7 +26,9 @@ const readme = `\
 
 I am interested in finding the helpful tool in github,and do something for the public repository.I really learn a lot here.
 
-⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
+⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(
+    2
+)} %
 
 ---
 
@@ -77,9 +87,23 @@ I am interested in finding the helpful tool in github,and do something for the p
 </a>
 </p>
 
+
 ### My Github Contributions
 
 ![](https://fastly.jsdelivr.net/gh/firework-a/firework-a/assets/github-contribution-grid-snake.svg)
+
+
+### More
+
+<!-- Readme Stats -->
+<div>
+  <a href="#">
+    <img height=200 src="https://github-readme-stats-org.vercel.app/api/top-langs/?username=firework-a&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Language stats" />
+  </a>
+  <a href="#">
+    <img height=200 src="https://github-readme-stats-org.vercel.app/api?username=firework-a&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Github stats" />
+  </a>
+</div>
 \
 `;
 
